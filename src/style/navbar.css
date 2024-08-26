@@ -1,0 +1,17 @@
+.navbar{
+    width: 100% ;
+    height: 30px; 
+    background: white;
+    display: flex;
+    justify-content: start;
+    font-size: small;
+}
+
+.text{
+    color: gray;
+    margin-left: 1%;
+}
+.active{
+    color: rgb(1, 36, 125);
+    font-weight: bold;
+}

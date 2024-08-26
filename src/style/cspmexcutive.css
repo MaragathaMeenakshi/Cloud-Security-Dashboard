@@ -1,0 +1,21 @@
+.donut{
+  height: 80%;
+  width: 100%;
+} 
+ 
+ .donut-inner {
+  margin-top: -150px;
+  margin-left: 32%
+}
+.donut-inner h3 {
+  height: 0;
+  /* margin-left: 3% */
+
+}
+.donut-inner span {
+  font-size: 12px;
+}  
+.chartjs-legend {
+  margin-left: 0 !important; /* Remove left margin */
+  padding-left: 0; /* Remove padding if necessary */
+}

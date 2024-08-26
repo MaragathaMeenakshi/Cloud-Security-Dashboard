@@ -1,0 +1,44 @@
+.header_container{
+    display: flex;
+    justify-content: space-between;
+    margin: 2% 2% 1% 2%
+}
+
+.header_text{
+    font-weight: bold;
+    
+}
+
+.subcontainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 20px;
+    height: 100%;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.title{
+    margin-left: 3%;
+    font-size: medium;
+    font-weight: bold;
+}
+ .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-color: white;
+    border-radius: 10px;
+    width: 30%;
+    height: 250px;
+ }
+ .widgetbox{
+    margin: 20%;
+    border: 1px solid rgba(128, 128, 128, 0.534);
+    border-radius: 10px;
+    padding: 5px;
+    color: gray;
+    width: 30%;
+}
